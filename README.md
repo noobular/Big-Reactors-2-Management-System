@@ -2,10 +2,10 @@
 Management system for ComputerCraft and Big Reactors Combined.
 
 #Instructions
-<b> SERVER OWNER </b>
+<b> SERVER OWNER </b> <br>
 Drag and drop the file onto the computers folder you're using.
 
-<b> USER </b>
+<b> USER </b><br>
 
 Type pastebin get bqLQ5PEq startup
 
